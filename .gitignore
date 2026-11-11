@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+server/data/*.db*
+server/uploads/videos/*
+server/uploads/thumbnails/*
+server/uploads/avatars/*
+!server/uploads/**/.gitkeep
+.DS_Store
